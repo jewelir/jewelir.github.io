@@ -17,7 +17,7 @@
 
 .wrapper--3d {
 	background: #fff;
-/*fafafa; /* Должен соответствовать цвету фона изображения */
+/*fafafa; /* Г„Г®Г«Г¦ГҐГ­ Г±Г®Г®ГІГўГҐГІГ±ГІГўГ®ГўГ ГІГј Г¶ГўГҐГІГі ГґГ®Г­Г  ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГї */
 	overflow: hidden;
 }
 
@@ -34,8 +34,10 @@
 .wrapper--3d canvas {
 	position: absolute;
 }
-
 .icon--panel {
+    display:  none;
+}
+<!-- Р»СЋР±РѕР№ С‚РµРєСЃС‚.icon--panel {
 	/*background: green;*/
 	padding: 10px;
 	position: absolute;
@@ -50,7 +52,7 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+ -->
 .icon--panel.ios-top
 {
 	top:0 !important;
