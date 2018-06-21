@@ -37,22 +37,7 @@
 .icon--panel {
     display:  none;
 }
-<!-- любой текст.icon--panel {
-	/*background: green;*/
-	padding: 10px;
-	position: absolute;
-	font-family: 'icomoon';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	/*line-height: 1;*/
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
- -->
+
 .icon--panel.ios-top
 {
 	top:0 !important;
