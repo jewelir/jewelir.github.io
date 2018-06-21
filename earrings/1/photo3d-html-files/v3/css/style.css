@@ -34,9 +34,6 @@
 .wrapper--3d canvas {
 	position: absolute;
 }
-.icon--panel {
-    display:  none;
-}
 
 .icon--panel.ios-top
 {
